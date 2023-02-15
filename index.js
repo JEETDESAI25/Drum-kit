@@ -1,6 +1,6 @@
-// document.querySelector("button").addEventListener
+document.querySelector("button").addEventListener
 
 
-// function handleClick() {
-//     alert("I git clicked")
-// }
+function handleClick() {
+    alert("I git clicked")
+}
