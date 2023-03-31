@@ -1,4 +1,4 @@
-// Detecting Button Press
+ // Detecting Button Press
 
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
@@ -67,7 +67,7 @@ function buttonAnimation(currentkey) {
 ////////////////////////////////////////////////////
 // for learning purpose, not part of code.
 // //construction function
-// function HouseKeeper (yearsofExperience, name, cleaningRepertoire){
+// function HouseKeeper (years of Experience, name, cleaningRepertoire){
 
 //   this.yearOfExperience = yearsofExperience;
 //   this.name = name;
